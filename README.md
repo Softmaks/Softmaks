@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=26&pause=2000&color=FF0080&center=true&width=1000&lines=Front-end+web+and+app+developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=26&pause=2000&color=FF0080&center=true&width=1000&lines=Front-end+web+developer" />
 </div>
 
 <div align="center" style="width: 480px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
