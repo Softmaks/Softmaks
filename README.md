@@ -8,6 +8,15 @@
 
 <h2 align="center">Hi there 👋, I'm <span style="color: #ff0080;"> Max !</span></h2>
 
+<h2> About Me :</h2>
+<p>👨‍💻 Starting from August this year, I've immersed myself in front-end development, acquiring valuable experience in crafting web applications and services. Whether working solo or in tandem with my training team, I've demonstrated a knack for swiftly coding new functionalities and tackling bug fixes.</p>
+
+<h2>Roadmap 2024 :</h2>
+
+<p>✍️ - Improve: HTML | CSS </p>
+<p>📚 - Learn: JavaScript | React | TypeScript | Node.js | Next.js | React Native </p>
+
+
 <h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</h3>
 <div align="center" style="margin-bottom: 40px;">
     <!-- <img src="./assets/bash-logo.svg" alt="bash" width="40" height="40"/>
